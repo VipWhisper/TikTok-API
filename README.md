@@ -4,9 +4,14 @@
   - Like / DisLike
   - Comment / Delete Comment
   - Send Messages
+  - Upload/ Delete
+  - Get Followers List
+  - Get Following List
+  - Get Posts
   - Report
   - 100% Requests No Selenium
   - All Algorithms There
+  - All APIs There
 - Contact :
   - TeleGram : https://t.me/WHI3PER
   - InstaGram : https://instagram.com/whisper_dev
