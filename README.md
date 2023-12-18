@@ -9,6 +9,7 @@
   - Get Following List
   - Get Posts
   - Report
+  - With UserName Or SecUID
   - 100% Requests No Selenium
   - All Algorithms There
   - All APIs There
